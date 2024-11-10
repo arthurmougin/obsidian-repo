@@ -39,3 +39,6 @@
 
 03/11/2027 13:30 – 17:00 Module 21 : Projet de fin d'études 08/11/2027 09:00 – 12:30 Module 21 : Projet de fin d'études 08/11/2027 13:30 – 17:00 Module 21 : Projet de fin d'études 09/11/2027 09:00 – 12:30 Module 21 : Projet de fin d'études 09/11/2027 13:30 – 17:00 Module 21 : Projet de fin d'études 10/11/2027 09:00 – 12:30 Module 21 : Projet de fin d'études 10/11/2027 13:30 – 17:00 Module 21 : Projet de fin d'études
 
+reformate this data into a table with the following columns: date, time, module.
+
+The table should look like this:
