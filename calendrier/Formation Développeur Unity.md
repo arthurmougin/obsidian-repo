@@ -37,37 +37,408 @@
 |07/01/2025 | 13:30 – 17:00 | Module 1 : Introduction au développement de jeux vidéo  |
 |08/01/2025 | 09:00 – 12:30 | Module 1 : Introduction au développement de jeux vidéo  |
 |08/01/2025 | 13:30 – 17:00 | Module 1 : Introduction au développement de jeux vidéo  |
-13/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-13/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-14/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-14/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-15/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-15/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-20/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-20/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-21/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-21/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-22/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-22/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-27/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-27/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-28/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-28/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-29/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-29/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-03/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-03/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-04/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-04/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-05/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||
-05/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||
-10/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||10/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||11/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||11/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation || 12/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation || 12/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||17/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||17/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||18/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||18/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||19/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||19/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||24/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||24/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||25/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||25/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||26/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation ||26/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation ||03/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||03/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||04/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||04/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||05/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||05/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||10/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||10/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||11/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||11/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||12/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||12/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||17/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||17/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||18/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||18/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||19/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||19/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||24/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||24/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||25/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||25/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||26/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||26/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||31/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||31/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||01/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||01/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||02/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||02/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||07/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||07/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||08/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||08/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||14/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||14/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||15/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||15/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||16/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||16/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||21/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||21/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||22/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||22/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||23/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo ||23/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo ||28/04/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||28/04/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||29/04/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||29/04/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||30/04/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||30/04/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||05/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||05/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||06/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||06/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||07/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||07/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||12/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||12/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||13/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||13/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||14/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||14/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||19/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||19/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||20/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||20/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||21/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||21/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||26/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||26/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||27/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||27/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||28/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||28/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||02/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||02/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||03/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||03/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||04/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||04/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||19/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||19/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||20/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement ||20/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement ||23/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||
-23/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||24/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||24/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||25/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||25/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||30/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||30/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||01/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||01/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||02/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||02/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||07/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||07/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||08/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||08/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||09/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||09/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||14/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||14/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||15/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||15/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||16/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||16/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||21/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||21/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||24/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||24/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||25/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||25/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||28/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||28/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||29/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||29/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||30/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||30/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||04/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||04/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||05/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||05/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||06/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||06/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||11/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||11/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||12/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||12/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||13/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) ||13/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) ||18/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||18/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||19/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||
+|13/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|13/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|14/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|14/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|15/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|15/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|20/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|20/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|21/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|21/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|22/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|22/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|27/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|27/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|28/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|28/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|29/01/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|29/01/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|03/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|03/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|04/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|04/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|05/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|05/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|10/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|10/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|11/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|11/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+| 12/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+| 12/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|17/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|17/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|18/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|18/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|19/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|19/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|24/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|24/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|25/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|25/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|26/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|26/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|03/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|03/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|04/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|04/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|05/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|05/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|10/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|10/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|11/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|11/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|12/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|12/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|17/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|17/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|18/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|18/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|19/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|19/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|24/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|24/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|25/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|25/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|26/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|26/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|31/03/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|31/03/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|01/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|01/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|02/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|02/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|07/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|07/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|08/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|08/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|14/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|14/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|15/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|15/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|16/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|16/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|21/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|21/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|22/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|22/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|23/04/2025 | 09:00 – 12:30 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|23/04/2025 | 13:30 – 17:00 | Module 3 : Mathématiques appliquées aux jeux vidéo |
+|28/04/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|28/04/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|29/04/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|29/04/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|30/04/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|30/04/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|05/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|05/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|06/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|06/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|07/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|07/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|12/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|12/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|13/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|13/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|14/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|14/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|19/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|19/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|20/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|20/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|21/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|21/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|26/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|26/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|27/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|27/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|28/05/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|28/05/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|02/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|02/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|03/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|03/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|04/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|04/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|19/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|19/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|20/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
+|20/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
+|23/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|
+23/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|24/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|24/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|25/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|25/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|30/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|30/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|01/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|01/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|02/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|02/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|07/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|07/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|08/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|08/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|09/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|09/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|14/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|14/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|15/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|15/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|16/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|16/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|21/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|21/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|24/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|24/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|25/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|25/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|28/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|28/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|29/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|29/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|30/07/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|30/07/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|04/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|04/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|05/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|05/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|06/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|06/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|11/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|11/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|12/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|12/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|13/08/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
+|13/08/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|18/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|18/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|19/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|
 
-19/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||20/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||20/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||28/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||28/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||29/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||29/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||01/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||01/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||02/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||02/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||03/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||03/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||08/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||08/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||09/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||09/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||10/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||10/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||15/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||15/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||16/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||16/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||17/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||17/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||22/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||22/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||23/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||23/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||24/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||24/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||29/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||29/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||30/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||30/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||01/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||01/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||06/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||06/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||07/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||07/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||08/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu ||08/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu ||13/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||13/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||14/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||14/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||15/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||15/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||20/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||20/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||21/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||21/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||22/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||22/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||27/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||27/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||28/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||28/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||29/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||29/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||03/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||03/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||04/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||04/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||05/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||05/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||10/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||10/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||11/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||11/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||12/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||12/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||17/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||17/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||18/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||18/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||19/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||19/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||24/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||24/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||25/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||25/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||26/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||26/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||01/12/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||01/12/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||02/12/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||02/12/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||03/12/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D ||03/12/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D ||08/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||08/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||09/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||09/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||10/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||10/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||15/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||15/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||16/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||16/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||17/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||17/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||22/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||22/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||05/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||05/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||06/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||06/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||07/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||07/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||12/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||12/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||13/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||13/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||14/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||14/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||19/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||19/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||20/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||20/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||21/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||21/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||26/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||26/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||27/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||27/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||28/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base ||28/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base ||02/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||02/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||03/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||03/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||04/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||04/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||09/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||09/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||10/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||10/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||11/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||11/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||16/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||16/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||17/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||17/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||18/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||18/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||23/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||23/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||24/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||
-24/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||25/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||25/02/2026 | 1:30 – 17:00 | Module 9 : Programmation avancée ||02/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||02/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||03/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||03/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||04/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||04/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||09/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||09/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||10/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||10/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||11/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||11/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||16/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||16/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||17/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||17/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||18/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||18/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||23/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée ||23/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée ||24/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 24/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 25/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 25/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 30/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 30/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 31/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 31/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 01/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 01/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 06/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 06/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 07/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 07/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 08/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 08/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 14/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 14/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 15/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 15/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 20/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 20/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 21/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 21/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 22/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 22/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 27/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 
+19/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|20/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|20/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|28/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|28/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|29/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|29/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|01/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|01/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|02/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|02/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|03/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|03/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|08/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|08/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|09/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|09/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|10/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|10/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|15/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|15/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|16/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|16/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|17/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|17/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|22/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|22/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|23/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|23/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|24/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|24/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|29/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|29/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|30/09/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|30/09/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|01/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|01/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|06/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|06/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|07/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|07/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|08/10/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
+|08/10/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|13/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|13/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|14/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|14/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|15/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|15/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|20/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|20/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|21/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|21/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|22/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|22/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|27/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|27/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|28/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|28/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|29/10/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|29/10/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|03/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|03/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|04/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|04/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|05/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|05/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|10/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|10/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|11/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|11/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|12/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|12/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|17/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|17/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|18/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|18/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|19/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|19/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|24/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|24/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|25/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|25/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|26/11/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|26/11/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|01/12/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|01/12/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|02/12/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|02/12/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|03/12/2025 | 09:00 – 12:30 | Module 7 : Création de jeux 2D |
+|03/12/2025 | 13:30 – 17:00 | Module 7 : Création de jeux 2D |
+|08/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|08/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|09/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|09/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|10/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|10/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|15/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|15/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|16/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|16/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|17/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|17/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|22/12/2025 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|22/12/2025 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|05/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|05/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|06/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|06/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|07/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|07/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|12/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|12/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|13/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|13/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|14/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|14/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|19/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|19/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|20/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|20/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|21/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|21/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|26/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|26/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|27/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|27/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|28/01/2026 | 09:00 – 12:30 | Module 8 : Graphismes et animations de base |
+|28/01/2026 | 13:30 – 17:00 | Module 8 : Graphismes et animations de base |
+|02/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|02/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|03/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|03/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|04/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|04/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|09/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|09/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|10/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|10/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|11/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|11/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|16/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|16/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|17/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|17/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|18/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|18/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|23/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|23/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|24/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|24/02/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|25/02/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|25/02/2026 | 1:30 – 17:00 | Module 9 : Programmation avancée |
+|02/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|02/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|03/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|03/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|04/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|04/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|09/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|09/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|10/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|10/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|11/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|11/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|16/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|16/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|17/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|17/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|18/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|18/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|23/03/2026 | 09:00 – 12:30 | Module 9 : Programmation avancée |
+|23/03/2026 | 13:30 – 17:00 | Module 9 : Programmation avancée |
+|24/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|24/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|25/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|25/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|30/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|30/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|31/03/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|31/03/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|01/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|01/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|06/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|06/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|07/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|07/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|08/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|08/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|14/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|14/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|15/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|15/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|20/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|20/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|21/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|21/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|22/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|22/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|27/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|
 
-27/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 28/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 28/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 29/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 29/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 04/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 04/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 05/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 05/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 06/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 06/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 11/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 11/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 12/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 12/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 13/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D 13/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D 18/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 18/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 19/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 19/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 20/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 20/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 25/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 25/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 26/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 26/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 27/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 27/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 01/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 01/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 02/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 02/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 03/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 03/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 15/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 15/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 19/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 19/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 22/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 22/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 23/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 23/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 24/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 24/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 29/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 29/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 30/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 30/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 01/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 
+27/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|28/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|28/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|29/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|29/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|04/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|04/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|05/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|05/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|06/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|06/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|11/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|11/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|12/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|12/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|13/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
+|13/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|18/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 18/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 19/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 19/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 20/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 20/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 25/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 25/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 26/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 26/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 27/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 27/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 01/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 01/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 02/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 02/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 03/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 03/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 15/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 15/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 19/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 19/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 22/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 22/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 23/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 23/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 24/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 24/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 29/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 29/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 30/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 30/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 01/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 
 
 01/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 06/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 06/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 07/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 07/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 08/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 08/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 13/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 13/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 14/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 14/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 15/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 15/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 20/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 20/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 21/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 21/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 24/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 24/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 27/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 27/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 28/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 28/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 29/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 29/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 03/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 03/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 04/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 04/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 05/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 05/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 10/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 10/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 11/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 11/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 12/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 12/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 17/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 17/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 18/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 18/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 19/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 19/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 24/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 24/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 28/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 28/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 31/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 31/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 01/09/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 
 
