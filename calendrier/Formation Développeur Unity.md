@@ -1,5 +1,3 @@
-
-
 | Date | Heures | Module |
 | ---- | ----- | ------ |
 |18/11/2024 | 09:00 – 12:30 | Module 1 : Introduction au développement de jeux vidéo  |
