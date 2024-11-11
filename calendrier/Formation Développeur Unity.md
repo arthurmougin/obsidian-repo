@@ -873,3 +873,4 @@
 |10/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
 |10/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
 
+| ma date | l'heure | sujet |
