@@ -1,5 +1,5 @@
 
-| Date | Heure | Module |
+| Date | Heures | Module |
 | ---- | ----- | ------ |
 |18/11/2024 | 09:00 – 12:30 | Module 1 : Introduction au développement de jeux vidéo  |
 |18/11/2024 | 13:30 – 17:00 | Module 1 : Introduction au développement de jeux vidéo  |
@@ -65,8 +65,8 @@
 |10/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
 |11/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
 |11/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
-| 12/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
-| 12/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
+|12/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
+|12/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
 |17/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
 |17/02/2025 | 13:30 – 17:00 | Module 2 : Fondamentaux de la programmation |
 |18/02/2025 | 09:00 – 12:30 | Module 2 : Fondamentaux de la programmation |
@@ -166,8 +166,7 @@
 |20/06/2025 | 09:00 – 12:30 | Module 4 : Outils et environnements de développement |
 |20/06/2025 | 13:30 – 17:00 | Module 4 : Outils et environnements de développement |
 |23/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
-|
-23/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
+|23/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
 |24/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
 |24/06/2025 | 13:30 – 17:00 | Module 5 : Programmation orientée objet (POO) |
 |25/06/2025 | 09:00 – 12:30 | Module 5 : Programmation orientée objet (POO) |
@@ -217,9 +216,7 @@
 |18/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
 |18/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
 |19/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
-|
-
-19/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
+|19/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
 |20/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
 |20/08/2025 | 13:30 – 17:00 | Module 6 : Introduction aux moteurs de jeu |
 |28/08/2025 | 09:00 – 12:30 | Module 6 : Introduction aux moteurs de jeu |
@@ -419,9 +416,7 @@
 |22/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
 |22/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
 |27/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
-|
-
-27/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
+|27/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
 |28/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
 |28/04/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
 |29/04/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
@@ -438,23 +433,444 @@
 |12/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
 |13/05/2026 | 09:00 – 12:30 | Module 10 : Développement de jeux 3D |
 |13/05/2026 | 13:30 – 17:00 | Module 10 : Développement de jeux 3D |
-|18/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 18/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 19/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 19/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 20/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 20/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 25/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 25/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 26/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 26/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 27/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 27/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 01/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 01/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 02/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 02/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 03/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 03/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 15/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 15/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 19/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 19/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 22/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 22/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 23/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 23/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 24/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 24/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 29/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 29/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 30/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 30/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 01/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 
-
-01/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 06/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 06/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 07/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 07/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 08/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo 08/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo 13/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 13/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 14/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 14/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 15/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 15/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 20/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 20/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 21/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 21/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 24/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 24/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 27/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 27/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 28/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 28/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 29/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 29/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 03/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 03/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 04/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 04/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 05/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 05/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 10/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 10/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 11/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 11/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 12/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 12/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 17/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 17/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 18/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 18/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 19/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 19/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 24/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 24/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 28/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 28/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 31/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 31/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 01/09/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 
-
-01/09/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 02/09/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux 02/09/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux 07/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 07/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 08/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 08/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 09/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 09/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 14/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 14/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 15/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 15/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 16/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 16/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 21/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 21/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 22/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 22/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 23/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 23/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 28/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 28/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 29/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 29/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 30/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 30/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 05/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 05/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 06/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 06/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 07/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 07/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 12/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 12/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 13/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 13/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 14/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 14/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 19/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 19/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 20/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 20/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 21/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 21/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 26/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 26/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 27/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D 27/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D 28/10/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 
-
-28/10/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 02/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 02/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 03/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 03/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 04/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 04/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 09/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 09/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 10/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 10/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 11/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 11/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 16/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 16/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 17/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 17/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 18/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 18/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) 23/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 23/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 24/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 24/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 25/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 25/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 30/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 30/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 01/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 01/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 02/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 02/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 07/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 07/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 08/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 08/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 09/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 09/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 14/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 14/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 15/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 15/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 16/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 16/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 21/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 21/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 22/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 22/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 04/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 04/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 05/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 
-
-05/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 06/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 06/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 11/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 11/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 12/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 12/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 13/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux 13/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux 18/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 18/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 19/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 19/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 20/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 20/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 25/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 25/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 26/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 26/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 27/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 27/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 01/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 01/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 02/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 02/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 03/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 03/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 08/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 08/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 09/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 09/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 10/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 10/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 15/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 15/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 16/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 16/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 17/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 17/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 22/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 22/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 23/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 23/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 24/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 24/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 01/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 01/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 02/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 02/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 03/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance
-
-03/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 08/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 08/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 09/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 09/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 10/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance 10/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance 15/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 15/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 16/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 16/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 17/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 17/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 22/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 22/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 23/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 23/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 24/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 24/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 29/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 29/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 30/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 30/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 31/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 31/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 05/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 05/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 06/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 06/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 07/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 07/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 14/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 14/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 19/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 19/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 20/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 20/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 21/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 21/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 26/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 26/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 27/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 27/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 28/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 28/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 03/05/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 03/05/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 04/05/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 04/05/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 05/05/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 
-
-05/05/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) 10/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 10/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 11/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 11/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 12/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 12/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 17/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 17/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 18/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 18/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 19/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 19/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 24/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 24/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 25/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 25/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 26/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 26/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 31/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 31/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 01/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 01/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 02/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 02/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 07/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 07/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 08/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 08/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 14/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 14/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 15/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 15/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 21/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 21/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 22/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 22/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 23/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 23/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 28/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 28/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 29/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 29/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 30/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux 30/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux 05/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 05/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 06/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 06/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 07/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 
-
-07/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 12/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 12/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 13/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 13/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 14/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 14/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 19/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 19/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 20/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 20/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 21/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 21/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 26/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 26/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 27/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 27/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 28/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 28/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 02/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 02/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 03/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 03/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 04/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 04/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 09/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 09/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 10/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 10/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 11/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 11/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 16/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 16/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 17/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 17/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 18/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 18/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 23/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 23/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 24/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production 24/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production 30/08/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 30/08/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 31/08/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 31/08/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 01/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 01/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 06/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 06/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 07/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 
-
-07/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 08/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 08/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 13/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 13/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 14/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 14/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 15/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 15/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 20/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 20/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 21/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 21/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 22/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 22/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 27/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 27/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 28/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 28/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 29/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 29/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 04/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 04/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 05/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 05/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 06/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 06/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 11/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 11/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 12/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 12/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 13/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 13/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 18/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 18/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 19/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 19/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 20/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement 20/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement 25/10/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 25/10/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 26/10/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 26/10/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 27/10/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 27/10/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 01/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 01/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 02/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 02/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 03/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études
-
-03/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 08/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 08/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 09/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 09/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études 10/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études 10/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études
+|18/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo |
+|18/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|19/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|19/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|20/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|20/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|25/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|25/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|26/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|26/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|27/05/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|27/05/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|01/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|01/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|02/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|02/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|03/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|03/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|15/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|15/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|19/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|19/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|22/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|22/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|23/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|23/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|24/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|24/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|29/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|29/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|30/06/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|30/06/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|01/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|01/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|06/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|06/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|07/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|07/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|08/07/2026 | 09:00 – 12:30 | Module 11 : Physique des jeux vidéo  |
+|08/07/2026 | 13:30 – 17:00 | Module 11 : Physique des jeux vidéo  |
+|13/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|13/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|14/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|14/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|15/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|15/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|20/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|20/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|21/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|21/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|24/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|24/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|27/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|27/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|28/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|28/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|29/07/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|29/07/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|03/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|03/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|04/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|04/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|05/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|05/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|10/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|10/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|11/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|11/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|12/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|12/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|17/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|17/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|18/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|18/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|19/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|19/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|24/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|24/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|28/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|28/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|31/08/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|31/08/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|01/09/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|01/09/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|02/09/2026 | 09:00 – 12:30 | Module 12 : Audio et musique dans les jeux |
+|02/09/2026 | 13:30 – 17:00 | Module 12 : Audio et musique dans les jeux |
+|07/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|07/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|08/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|08/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|09/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|09/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|14/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|14/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|15/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|15/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|16/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|16/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|21/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|21/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|22/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|22/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|23/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|23/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|28/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|28/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|29/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|29/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|30/09/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|30/09/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|05/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|05/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|06/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|06/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|07/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|07/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|12/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|12/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|13/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|13/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|14/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|14/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|19/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|19/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|20/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|20/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|21/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|21/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|26/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|26/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|27/10/2026 | 09:00 – 12:30 | Module 13 : Projet de développement de jeu 3D |
+|27/10/2026 | 13:30 – 17:00 | Module 13 : Projet de développement de jeu 3D |
+|28/10/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|28/10/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|02/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|02/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|03/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|03/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|04/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|04/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|09/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|09/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|10/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|10/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|11/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|11/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|16/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|16/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|17/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|17/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|18/11/2026 | 09:00 – 12:30 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|18/11/2026 | 13:30 – 17:00 | Module 14 : Interfaces utilisateur (UI) et expérience utilisateur (UX) |
+|23/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|23/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|24/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|24/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|25/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|25/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|30/11/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|30/11/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|01/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|01/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|02/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|02/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|07/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|07/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|08/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|08/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|09/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|09/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|14/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|14/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|15/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|15/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|16/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|16/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|21/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|21/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|22/12/2026 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|22/12/2026 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|04/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|04/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|05/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|05/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|06/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|06/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|11/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|11/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|12/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|12/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|13/01/2027 | 09:00 – 12:30 | Module 15 : Intelligence artificielle pour les jeux |
+|13/01/2027 | 13:30 – 17:00 | Module 15 : Intelligence artificielle pour les jeux |
+|18/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|18/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|19/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|19/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|20/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|20/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|25/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|25/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|26/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|26/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|27/01/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|27/01/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|01/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|01/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|02/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|02/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|03/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|03/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|08/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|08/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|09/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|09/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|10/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|10/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|15/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|15/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|16/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|16/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|17/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|17/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|22/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|22/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|23/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|23/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|24/02/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|24/02/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|01/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|01/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|02/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|02/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|03/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|03/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|08/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|08/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|09/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|09/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|10/03/2027 | 09:00 – 12:30 | Module 16 : Optimisation et performance |
+|10/03/2027 | 13:30 – 17:00 | Module 16 : Optimisation et performance |
+|15/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|15/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|16/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|16/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|17/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|17/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|22/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|22/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|23/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|23/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|24/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|24/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|29/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|29/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|30/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|30/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|31/03/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|31/03/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|05/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|05/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|06/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|06/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|07/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|07/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|14/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|14/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|19/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|19/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|20/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|20/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|21/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|21/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|26/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|26/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|27/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|27/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|28/04/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|28/04/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|03/05/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|03/05/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|04/05/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|04/05/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|05/05/2027 | 09:00 – 12:30 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|05/05/2027 | 13:30 – 17:00 | Module 17 : Réalité virtuelle (VR) et augmentée (AR) |
+|10/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|10/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|11/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|11/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|12/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|12/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|17/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|17/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|18/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|18/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|19/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|19/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|24/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|24/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|25/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|25/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|26/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|26/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|31/05/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|31/05/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|01/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|01/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|02/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|02/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|07/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|07/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|08/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|08/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|14/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|14/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|15/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|15/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|21/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|21/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|22/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|22/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|23/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|23/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|28/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|28/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|29/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|29/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|30/06/2027 | 09:00 – 12:30 | Module 18 : Multijoueur et réseaux |
+|30/06/2027 | 13:30 – 17:00 | Module 18 : Multijoueur et réseaux |
+|05/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|05/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|06/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|06/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|07/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|07/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|12/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|12/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|13/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|13/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|14/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|14/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|19/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|19/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|20/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|20/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|21/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|21/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|26/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|26/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|27/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|27/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|28/07/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|28/07/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|02/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|02/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|03/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|03/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|04/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|04/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|09/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|09/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|10/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|10/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|11/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|11/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|16/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|16/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|17/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|17/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|18/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|18/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|23/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|23/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|24/08/2027 | 09:00 – 12:30 | Module 19 : Outils et pipelines de production |
+|24/08/2027 | 13:30 – 17:00 | Module 19 : Outils et pipelines de production |
+|30/08/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|30/08/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|31/08/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|31/08/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|01/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|01/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|06/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|06/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|07/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|07/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|08/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|08/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|13/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|13/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|14/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|14/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|15/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|15/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|20/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|20/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|21/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|21/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|22/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|22/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|27/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|27/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|28/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|28/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|29/09/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|29/09/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|04/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|04/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|05/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|05/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|06/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|06/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|11/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|11/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|12/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|12/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|13/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|13/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|18/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|18/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|19/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|19/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|20/10/2027 | 09:00 – 12:30 | Module 20 : Création de contenu généré procéduralement |
+|20/10/2027 | 13:30 – 17:00 | Module 20 : Création de contenu généré procéduralement |
+|25/10/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|25/10/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|26/10/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|26/10/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|27/10/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|27/10/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|01/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|01/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|02/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|02/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|03/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|03/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|08/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|08/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|09/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|09/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
+|10/11/2027 | 09:00 – 12:30 | Module 21 : Projet de fin d'études |
+|10/11/2027 | 13:30 – 17:00 | Module 21 : Projet de fin d'études |
 
