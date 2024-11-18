@@ -1,0 +1,17 @@
+/* @theme buaa_red */
+
+@import 'buaa';
+
+
+:root {
+  --color-highlight: #800000;
+}
+
+section {
+  background-image: var(--logo_red);
+}
+
+th {
+  background-color: #ccc !important;
+  color: #3b3b3b !important;
+}
