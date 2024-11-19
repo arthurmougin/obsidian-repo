@@ -8,6 +8,33 @@
  * @size 16:9 1280px 720px
  */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/github.min.css");
+@import "structure";
+
+:root {
+  --default-background-color: white;
+
+  --default-font-color: #323232;
+
+  --default-list-font-color: #323232;
+  --cool-list-color: rgb(255, 31, 1);
+
+  --bold-color: #1089da;
+
+  --default-header-font-color: #323232;
+  --subtitle-color: #0e4d61;
+  --letter-spacing: 1.25px !important;
+  --default-header-bold-font-color: rgb(228, 5, 5);
+  --default-strong-font-color: #1089da;
+  --italic-background-color: rgba(0, 0, 0, 0.1);
+  --default-border-color: 2px solid #eaecef;
+
+
+
+  background-color: var(--default-background-color);
+  color: var(--default-font-color);
+}
+
+
 section {
     background-color: white;
     color: #323232;

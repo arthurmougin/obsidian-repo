@@ -374,7 +374,7 @@ section.transition {
   font-weight: bold;
   color: white;
   padding-top: auto;
-  padding-buttom: auto;
+  padding-bottom: auto;
 }
 
 section.transition h1,
@@ -409,7 +409,7 @@ section.transition2 {
   font-weight: bold !important;
   color: rgb(255, 255, 255);
   padding-top: auto;
-  padding-buttom: auto;
+  padding-bottom: auto;
 }
 
 section.transition2 h1,
@@ -449,7 +449,7 @@ section.transition3 {
   font-weight: bold !important;
   color: rgb(255, 255, 255);
   padding-top: auto;
-  padding-buttom: auto;
+  padding-bottom: auto;
 }
 
 section.transition3 h1,
@@ -493,7 +493,7 @@ section.cite {
 
 section.cite p {
   color: black;
-  background-color: ;
+  background-color: var(--background-color);
   letter-spacing: var(--letter-spacing);
   font-size: 150%;
   text-align: center;
