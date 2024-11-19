@@ -24,6 +24,9 @@ section {
         "Trebuchet MS",
         "Segoe UI",
         sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 section > *:first-child {
@@ -62,6 +65,11 @@ section.red strong {
     color: #cb2431;
 }
 
+section header {
+    position: absolute;
+    top: 70px;
+}
+
 section footer {
     position: absolute;
     bottom: 70px;
@@ -73,14 +81,6 @@ section.lead {
     flex-wrap: nowrap;
     justify-content: center;
     text-align: center;
-}
-section.lead > *:first-child {
-    margin-top: 0;
-}
-
-section.lead footer {
-    position: relative;
-    bottom: 0;
 }
 
 section.split div.split {
