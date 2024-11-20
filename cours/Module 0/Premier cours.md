@@ -26,11 +26,13 @@ _class: lead invert invert_lead
 
 
 ---
-## Votre formateur
-**Nom :** Arthur Mougin
-**Origine :** Franche comté
-**Profession :** Développeur WebXR et Formateur jeux vidéo
-**Parcours :** Web => Technologie Immersives)
+## 👨‍🏫 Votre formateur
+**Nom :** Arthur Mougin *(il/lui)*
+**Parcours :** Web => Technologie Immersives
+**A propos de moi :** 
+- Crée la communauté WebXR Francophone
+- Co-admin du serveur discord XR France
+- 🐲
 
 <!-- 
 Parcours : 
@@ -45,14 +47,18 @@ Parcours :
 
 ---
 
-## A votre tour !
+## 🎤 A votre tour !
 Idées de présentation :
-- Prénom & Nom
-- Origine
-- centres d'intérêts
-- Profession
-- Parcours
-- Objectifs
+- Prénom & Nom*
+- Niveau actuel en développement de jeu vidéo*
+- Objectifs personnels*
+- Jeu vidéo préféré
+- Centres d'intérêts
+- Pain au chocolat ou chocolatine 🥐?*
+
+<!-- 
+_footer: "* : optionnel"
+-->
 
 ---
 ##  🏔️ **Objectifs** et programme
