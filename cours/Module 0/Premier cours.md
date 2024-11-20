@@ -99,10 +99,20 @@ Méthodologie projet
 Digiforma :
 C'est la plateforme pédagogique de 3C Learning. Vous y trouverez des modules à faire à votre rythme, des quiz, l'espace de rendu de projet, le replay de nos scéances ensemble, etc.
 
+-->
+
+---
+
+## 🧰 Ressources et méthodologie
+- **Outils :** 
+  - Digiforma
+  - [Discord](https://discord.gg/YQTJhj7vQg)
+  - *Teams*
+![bg left:30% 70%](annexes/Pasted%20image%2020241120181359.png)
+<!-- 
 Discord :
 C'est notre espace de discussion, de partage de ressources, de questions, etc. 
 
-Teams :
-Tous les appels se feront par teams afin qu'on puisse les enregistrer et vous les rediffuser si vous ratez un cours.  
-
+Nous avons notre espace dédié dans la catégorie "GAME PROGRAMMER"
+avec des salons thématiques
 -->
