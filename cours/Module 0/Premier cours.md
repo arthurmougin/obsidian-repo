@@ -29,7 +29,7 @@ _class: lead
 **Nom :** Arthur Mougin
 **Origine :** Franche comté
 **Profession :** Développeur WebXR et Formateur jeux vidéo
-**Parcours :** Web => Technologie Immersives
+**Parcours :** Web => Technologie Immersives)
 
 <!-- 
 
@@ -59,3 +59,8 @@ Idées de présentation :
 ---
 
 ## Programme et objectifs
+[Détail du programme](https://3c-learning.digiforma.net/ts/2004300/program)
+
+---
+## Programme et objectifs
+- Vous obtenir un job dans un 

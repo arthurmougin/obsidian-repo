@@ -18,13 +18,13 @@
   --default-list-font-color: #323232;
   --cool-list-color: rgb(255, 31, 1);
 
-  --bold-color: #1089da;
+  --bold-color: #1195ec;
 
   --default-header-font-color: #323232;
   --subtitle-color: #0e4d61;
   --letter-spacing: 1.25px !important;
   --default-header-bold-font-color: rgb(228, 5, 5);
-  --default-strong-font-color: #1089da;
+  --default-strong-font-color: #1195ec;
   --italic-background-color: var(--default-background-color);
   --default-border-color: 2px solid #eaecef;
 
@@ -65,9 +65,6 @@ section em {
     font-weight: normal;
 }
 
-section strong {
-    color: #1089da;
-}
 section pre {
     display: block;
     margin: 1em 0 0 0;
