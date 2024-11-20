@@ -97,4 +97,12 @@ Méthodologie projet
   - Discord
 <!-- 
 Digiforma :
-C'est la plateforme pédagogique de 3C Learning. Vous y trouverez des modules à faire à votre rythme, des quiz, l'espace de rendu de projet, le replay de nos scéances ensemble, etc
+C'est la plateforme pédagogique de 3C Learning. Vous y trouverez des modules à faire à votre rythme, des quiz, l'espace de rendu de projet, le replay de nos scéances ensemble, etc.
+
+Teams :
+Tous les appels se feront par teams afin qu'on puisse les enregistrer et vous les rediffuser si vous ratez un cours.  
+
+Discord :
+C'est notre espace de discussion, de partage de ressources, de questions, etc. 
+-->
+
