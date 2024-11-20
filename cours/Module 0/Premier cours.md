@@ -23,11 +23,10 @@ _class: lead
 
 ---
 ## Votre formateur
-Nom : Arthur Mougin
-Origine : Franche comté
-Profession : Développeur WebXR et Formateur jeux vidéo
-Parcours : Web => Technologie Immersives
-Niveau : Master
+**Nom :** Arthur Mougin
+**Origine :** Franche comté
+**Profession :** Développeur WebXR et Formateur jeux vidéo
+**Parcours :** Web => Technologie Immersives
 <!-- 
 Parcours : 
   - Web (DUT MMI)
