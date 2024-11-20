@@ -37,6 +37,7 @@ Parcours :
   - 2 ans travailler sur des plateformes 3D sociales pour le Web
   - 1 an de freelance en développement d'expériences web et de mentorat 
   -->
+![bg right:33%](annexes/arthur_mougin_photo_de_profil_professionnelle_compressee.jpg)
 
 ---
 ## A votre tour !
