@@ -19,7 +19,7 @@ _class: lead invert invert_lead
 
 ---
 
-## Programme d'aujourd'hui
+## 📑Programme d'aujourd'hui
 - Faire connaissance
 - Objectifs et programme
 - outils et méthodologie
@@ -90,19 +90,19 @@ Méthodologie projet
 -->
 ---
 
-## Outils et méthodologie
+## 🧰 Ressources et méthodologie
 - **Outils :** 
-  - Digiforma
-  - Appels Teams
+  - [Digiforma](https://3c-learning.digiforma.net/ts/2004300)
   - Discord
+  - *Teams*
 <!-- 
 Digiforma :
 C'est la plateforme pédagogique de 3C Learning. Vous y trouverez des modules à faire à votre rythme, des quiz, l'espace de rendu de projet, le replay de nos scéances ensemble, etc.
 
+Discord :
+C'est notre espace de discussion, de partage de ressources, de questions, etc. 
+
 Teams :
 Tous les appels se feront par teams afin qu'on puisse les enregistrer et vous les rediffuser si vous ratez un cours.  
 
-Discord :
-C'est notre espace de discussion, de partage de ressources, de questions, etc. 
 -->
-
