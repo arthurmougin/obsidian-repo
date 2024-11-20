@@ -9,7 +9,7 @@ tags:
   - module_0
 class:
 ---
-# Développement de jeu vidéo
+# Développements de jeu vidéo
 <!-- 
 _paginate: false 
 _class: lead
