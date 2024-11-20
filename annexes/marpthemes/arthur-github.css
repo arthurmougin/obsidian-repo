@@ -25,7 +25,7 @@
   --letter-spacing: 1.25px !important;
   --default-header-bold-font-color: rgb(228, 5, 5);
   --default-strong-font-color: #1089da;
-  --italic-background-color: rgba(0, 0, 0, 0.1);
+  --italic-background-color: var(--default-background-color);
   --default-border-color: 2px solid #eaecef;
 
 
@@ -60,6 +60,12 @@ section > *:first-child {
     margin-top: -0.5em;
     border-bottom: 1px solid #eaecef;
 }
+
+section em {
+    font-style: italic;
+    font-weight: normal;
+}
+
 section strong {
     color: #1089da;
 }
