@@ -11,9 +11,10 @@ class:
 ---
 # 🎮 Développements de jeu vidéo 
 
+
 <!-- 
 _paginate: false 
-_class: lead
+_class: lead invert invert_lead
 -->
 
 ---
@@ -54,13 +55,13 @@ Idées de présentation :
 - Objectifs
 
 ---
-##  **Objectifs** et programme
--> Vous donner les clés du monde du jeu vidéo
--> Que vous ayez du plaisir à apprendre
+##  🏔️ **Objectifs** et programme
+→ Vous donner les clés du monde du jeu vidéo
+→ Que vous ayez du plaisir à apprendre
 
 ---
 
-## 🏔 Objectifs et **programme**
+## 🏔️ Objectifs et **programme**
 - 2 à 3 cours par semaine
 - ~20aine de modules
 - Projets
