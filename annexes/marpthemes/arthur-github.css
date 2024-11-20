@@ -34,7 +34,6 @@
   color: var(--default-font-color);
 }
 
-
 section {
     background-color: white;
     color: #323232;
@@ -56,9 +55,13 @@ section {
     justify-content: center;
 }
 
+foreignObject:nth-child(1) > section {
+    border: 1px solid var(--default-font-color);
+}
+
 section > *:first-child {
     margin-top: -0.5em;
-    border-bottom: 1px solid #eaecef;
+    border-bottom: 1px solid var(--default-border-color);
 }
 
 section em {
