@@ -24,6 +24,7 @@ _class: lead
 ---
 ## Votre formateur
 Nom : Arthur Mougin
+Origine : Franche comté
 Profession : Développeur WebXR et Formateur jeux vidéo
 Parcours : Web => Technologie Immersives
 Niveau : Master
@@ -37,4 +38,16 @@ Parcours :
   - 1 an de freelance en développement d'expériences web et de mentorat 
   -->
 
+---
+## A votre tour !
+Idées de présentation :
+- Prénom & Nom
+- Origine
+- centres d'intérêts
+- Profession
+- Parcours
+- Objectifs
 
+---
+
+## Programme et objectifs
