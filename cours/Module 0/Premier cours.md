@@ -9,7 +9,7 @@ tags:
   - module_0
 class:
 ---
-# Développements de jeu vidéo
+# 🎮 Développements de jeu vidéo 
 
 <!-- 
 _paginate: false 
@@ -32,7 +32,6 @@ _class: lead
 **Parcours :** Web => Technologie Immersives)
 
 <!-- 
-
 Parcours : 
   - Web (DUT MMI)
   - Découverte du WebVR / WebXR en 2018
@@ -40,7 +39,6 @@ Parcours :
   - Master en Management des technologies interactives 3D à l'ENSAM (2 ans de formation à Unity)
   - 2 ans travailler sur des plateformes 3D sociales pour le Web
   - 1 an de freelance en développement d'expériences web et de mentorat 
-  
   -->
 ![bg right:33%](annexes/arthur_mougin_photo_de_profil_professionnelle_compressee.jpg)
 
@@ -58,10 +56,11 @@ Idées de présentation :
 
 ---
 
-## **Programme** et objectifs
+## Objectifs et **programme**
 [Détail du programme](https://3c-learning.digiforma.net/ts/2004300/program)
 
+
 ---
-## Programme et **objectifs**
+##  **Objectifs** et programme
 -> Vous donner les clés du monde du jeu vidéo
-	
+-> Que vous ayez du plaisir à apprendre
