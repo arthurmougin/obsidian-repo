@@ -77,11 +77,17 @@ Nous aurons l'occasion de mieux nous connaître au fil des cours.
 ---
 
 ## 🏔️ Objectifs et **programme**
-- 2 à 3 cours par semaine
+- 3 ans
 - ~20aine de modules
+- 2 à 3 cours par semaine
 - Projets
 [Détail du programme](https://3c-learning.digiforma.net/ts/2004300/program)
+<!-- 
+Je travaille du lundi au mercredi.
+Sachant ca, quand préféreriez vous avoir cours ?
 
+Méthodologie projet 
+-->
 ---
 
 ## Outils et méthodologie
@@ -89,3 +95,6 @@ Nous aurons l'occasion de mieux nous connaître au fil des cours.
   - Digiforma
   - Appels Teams
   - Discord
+<!-- 
+Digiforma :
+C'est la plateforme pédagogique de 3C Learning. Vous y trouverez des modules à faire à votre rythme, des quiz, l'espace de rendu de projet, le replay de nos scéances ensemble, etc
