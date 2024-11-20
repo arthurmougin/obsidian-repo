@@ -20,7 +20,7 @@ _class: lead
 
 ## Programme d'aujourd'hui
 - Faire connaissance
-- Programme et objectifs
+- Objectifs et programme
 - outils et méthodologie
 
 
@@ -53,14 +53,23 @@ Idées de présentation :
 - Parcours
 - Objectifs
 
-
----
-
-## Objectifs et **programme**
-[Détail du programme](https://3c-learning.digiforma.net/ts/2004300/program)
-
-
 ---
 ##  **Objectifs** et programme
 -> Vous donner les clés du monde du jeu vidéo
 -> Que vous ayez du plaisir à apprendre
+
+---
+
+## 🏔 Objectifs et **programme**
+- 2 à 3 cours par semaine
+- ~20aine de modules
+- Projets
+[Détail du programme](https://3c-learning.digiforma.net/ts/2004300/program)
+
+---
+
+## Outils et méthodologie
+- **Outils :** 
+  - Digiforma
+  - Appels Teams
+  - Discord
