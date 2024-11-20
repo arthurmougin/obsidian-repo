@@ -16,7 +16,7 @@ _class: lead
 -->
 
 ---
-## Programme d'aujourd'hui
+## 🐉 Programme d'aujourd'hui
 - Faire connaissance
 - Programme et objectifs
 - outils et méthodologie
