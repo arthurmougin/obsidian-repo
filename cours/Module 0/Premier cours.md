@@ -49,21 +49,30 @@ Parcours :
 
 ## 🎤 A votre tour !
 Idées de présentation :
-- Prénom & Nom*
-- Niveau actuel en développement de jeu vidéo*
-- Objectifs personnels*
+- Prénom & Nom
+- Niveau actuel en développement de jeu vidéo
+- Objectifs personnels
 - Jeu vidéo préféré
 - Centres d'intérêts
-- Pain au chocolat ou chocolatine 🥐?*
+- Pain au chocolat ou chocolatine 🥐?
 
 <!-- 
-_footer: "* : optionnel"
+_footer: 3C Learning - Arthur Mougin
+-->
+
+---
+
+##  Merci pour vos présentations 🙏
+<!--
+_paginate: false 
+Nous aurons l'occasion de mieux nous connaître au fil des cours. 
 -->
 
 ---
 ##  🏔️ **Objectifs** et programme
 → Vous donner les clés du monde du jeu vidéo
 → Que vous ayez du plaisir à apprendre
+
 
 ---
 
