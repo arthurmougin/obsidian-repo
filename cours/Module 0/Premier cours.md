@@ -58,9 +58,10 @@ Idées de présentation :
 
 ---
 
-## Programme et objectifs
+## **Programme** et objectifs
 [Détail du programme](https://3c-learning.digiforma.net/ts/2004300/program)
 
 ---
-## Programme et objectifs
-- Vous obtenir un job dans un 
+## Programme et **objectifs**
+-> Vous donner les clés du monde du jeu vidéo
+	
