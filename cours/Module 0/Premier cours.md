@@ -62,7 +62,7 @@ _footer: 3C Learning - Arthur Mougin
 
 ---
 
-##  Merci pour vos présentations 🙏
+## 🙏 Merci pour vos présentations 
 <!--
 _paginate: false 
 Nous aurons l'occasion de mieux nous connaître au fil des cours. 
