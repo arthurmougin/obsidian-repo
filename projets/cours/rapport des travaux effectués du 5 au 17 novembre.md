@@ -1,0 +1,1 @@
+Sur les premiers jours, j'ai poursuivi la prise en main de la plateforme que j'avais déjà entamé, a partir des vidéos fournies dans la section tutor
