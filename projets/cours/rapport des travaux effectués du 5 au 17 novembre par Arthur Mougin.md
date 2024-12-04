@@ -10,4 +10,4 @@
 - Participation à toutes les réunions de formateur possibles
 - Réalisation d'interview avec des développeurs de jeu vidéos dans l'objectif d'enrichir mes modules liés à l'histoire du jeu vidéo
 
-Ayant reçu les supports de cours autour du 18, c'est principalement après cette date qu'a eu lieu le gros du travail de préparation.
+Ayant reçu les supports de cours autour du 18, c'est principalement après cette date qu'a eu lieu le gros du travail de préparation des supports adaptés.
