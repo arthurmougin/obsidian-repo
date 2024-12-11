@@ -1,4 +1,4 @@
-# Polyspatial
+# PolySpatial
 PolySpatial convert scene to RealityKit
 - Materials (urp  = lit, simple lit, complex lit. birp = standard)
 	- Unity Shader graph supported
