@@ -1,45 +1,15 @@
 # thèmes
 ## capacités techniques
 
-### ShariiingXR
+### [ShariiingXR](Shariiing XR.md)
 
-SDK pour interaction avec AVP :
-- Partage de perspective
-- notes et notifications transposées dans le casque
-![](Pasted%20image%2020241211103951.png)
+### [AVP Features](AVP%20Features.md)
 
-### AVP
-Full hand tracking 
-- Pas de bataille en temps réel
-- Manipulation organique
+### [Unity](Unity.md)
 
-Eye Tracking
-- interaction par sélection
+## Experience
 
-Types of apps
-- windowed (flat)
-- Immersives AR bounded to a small area (shared space)
-- Fully immersive VR 
-
-types of volume camera
-- bounded - shared space (unity dimension and transform, real world size, movable by user)
-- unbounded (full space, only one at a time)
-
-input type
-- Look and tap (most common: distant, direct touch, multiple taps)
-- hands (exact position, hand package: unbounded only, with permission)
-- head pose (exact position, input system: unbounded only)
-- AR (arkit: unbounded only, with permission)
-- bluetooth devices (keyboards, controllers, other system supported devices)
-
-
-### Unity
-
-
-
-## Expérience
-
-### considérations Gameplay
+### Considérations Gameplay
 Design recommendations
 - Intentional
 	- encourage key moment unique to vision os
