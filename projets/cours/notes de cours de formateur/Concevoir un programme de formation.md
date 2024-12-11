@@ -10,7 +10,7 @@ Un programme structuré permet de :
 - garantir la pertinence du contenu
 
 ### Bonne formulation
-- **clair** (compréhensible par tous, apprenants comme formateurs)
+- **claire** (compréhensible par tous, apprenants comme formateurs)
 - **mesurables** et facilement évaluables
 - **adaptés** au niveau et besoin des apprenants
 
@@ -18,4 +18,21 @@ Un programme structuré permet de :
 
 ## 2. Identification des besoins des apprenants et du commanditaire
 
-- P
+### analyser les besoins
+- **Public Cible** a un niveau initial, des attentes et des contraintes
+- **Objectifs opérationnels** quels résultats obtenir pour le commanditaire
+- **environnement** : les modalités de formation, comme le présentiel, distanciel ou hybride
+### outils d'analyse
+- questionnaires
+- entretiens collectifs ou individuels
+- analyse de données existantes
+## 3. Structurer le contenu pédagogique
+### Organisation en modules
+
+Il faut diviser le programme en modules thématiques cohérents :
+1. **introduction** au contexte, aux enjeux et objectifs du module 
+2. **développement** des concepts clés, méthodes, avec des études de cas
+3. **synthèse** des points importants avec des exercices d'application
+
+### progression pédagogique
+- **Simple → Complexe** : Commencer toujours par des notions de base avant d'aborder des concepts avancés
