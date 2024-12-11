@@ -17,6 +17,7 @@ Eye Tracking
 - interaction par sélection
 
 Types of apps
+- windowed (flat)
 - Immersives AR bounded to a small area (shared space)
 - Fully immersive VR 
 
@@ -30,6 +31,13 @@ input type
 - head pose (exact position, input system: unbounded only)
 - AR (arkit: unbounded only, with permission)
 - bluetooth devices (keyboards, controllers, other system supported devices)
+
+Design recommendations
+- Intentional
+	- encourage key moment unique to vision os
+	- find how to make new things possible 
+		- need photorealistic
+		- bring objects to 
 ### Unity
 PolySpatial convert scene to RealityKit
 - Materials (urp  = lit, simple lit, complex lit. birp = standard)
@@ -82,6 +90,13 @@ XR Interaction Toolkit
 	- Poke : Direct + direction filtering for a button to work
 	- Gaze : Ray + fancies for easier use for eye tracking
 - interaction manager : tie those together
+	- can have multiple group of interactor+  interactable + managers, one per set of interactions (ex: main menu vs individual scenes)
+- other options
+	- Abstract input system available
+	- Map to other interaction systems
+	- Access raw hand from the hands package
+		- identify gestures
+		- apply custom mesh 
 ## Expérience
 
 ### considérations Gameplay
