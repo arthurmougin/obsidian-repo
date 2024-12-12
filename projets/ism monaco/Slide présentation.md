@@ -61,6 +61,7 @@ Premiers à développer ce type d'applications
 ---
 
 ## Parlons design
+[Design great visionOS apps - WWDC24](https://developer.apple.com/videos/play/wwdc2024/10086/)
 
 <!-- 
 _paginate: false 
@@ -230,4 +231,13 @@ _class: lead
 
 ---
 ## Conclusion
-Le casque Apple Vision Pro est un outil puissant pour la réalité virtuelle et Augmentée. Il permet de créer des expériences immersives et interactives. 
+Le casque Apple Vision Pro est un outil puissant pour la réalité virtuelle et Augmentée. 
+L'intégration avec ShariiingXR et l'utilisation des guidelines d'Apple permettent de créer des expériences Impactantes au sein de l'ISM.
+
+---
+## Retours
+Les points qui sont ressortis de cette présentation sont :
+- Le contenu cartographique que possède ISM est déjà très riche
+- Par contre, les points suivants auraient une vrai valeur ajoutée et seront étudiés : 
+	- **Course en char** dans le Circus Maximus
+	- **Combats de gladiateurs** dans le Colisée
