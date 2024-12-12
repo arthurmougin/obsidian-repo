@@ -22,6 +22,8 @@ _class: lead invert invert_lead
 ## Programme
 - Technologie
 - Design
+- Jeux
+- Idées ressorties
 
 ---
 
