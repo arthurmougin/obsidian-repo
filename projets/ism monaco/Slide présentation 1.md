@@ -46,16 +46,14 @@ _footer: Arthur Mougin - *uniquement en réalité virtuelle
 ## Tech : Retour d'entretien avec Immersion
 ## Pionniers
 Premiers à développer ce type d'applications
-➡ Apport de support par email
-
-![bg right:40%](annexes/Pasted%20image%2020241211103951.png)
+➡ **Support par email**
 
 
 ---
 
 ## Tech : Ce que le casque d'Apple permet
-- Inputs : suivi mains, regarder et pincer (recommandé)
-- Taille d'expériences : un petit carré ou un univers entier.
+- Inputs : suivi mains, **regarder et pincer** (recommandé)
+- Taille d'expériences : un petit carré ou un **univers entier**.
 - Capacités graphiques et de calcul bien supérieures au casque Meta Quest 3
 
 ---
@@ -70,56 +68,26 @@ _class: lead
 ---
 ## Design : Recommandations d'Apple
 ### Interface intentionnelle
-- Identifier ce qui rend la plateforme unique
-![bg left:40%](annexes/Pasted%20image%2020241212103516.png) 
-
----
-## Design : Recommandations d'Apple
-### Interface intentionnelle
-- Explorer le champ des possibles
-
-![bg right:40%](annexes/Pasted%20image%2020241212103557.png)
-
-
----
-## Design : Recommandations d'Apple
-### Interface intentionnelle
-- Donner vie à des modèles photoréalistes
-
-![h:250](annexes/Pasted%20image%2020241212103613.png)
-<style>
- img
- {
-	 margin-left:16em;
- }
-</style>
-
----
-## Design : Recommandations d'Apple
-### Interface intentionnelle
+- Identifier ce qui rend la plateforme **unique**
+- **Explorer** le champ des possibles
+- Donner vie à des modèles **photoréalistes**
 - Si l'interface originelle est trop complexe, il faut alors proposer une expérience **complémentaire**.
 
 
-![bg  right:55%](annexes/Pasted%20image%2020241212103653.png)
-![bg](annexes/Pasted%20image%2020241212103726.png)
 
 ---
 
 ## Design : Recommandations d'Apple
-### Exemple d'immersion
-- Transporter les utilisateurs dans un autre monde
+### Immersion
+- **Transporter** les utilisateurs dans un autre monde
 - Ces environnements doivent être fidèles à la réalité et inclure un sens de la profondeur et de l'échelle
 
-![bg left:40%](annexes/Pasted%20image%2020241212103812.png)
-
 ---
 
 ## Design : Recommandations d'Apple
 
-### Concevoir une expérience sonore qui ai du sens
+### Concevoir une expérience **sonore** qui ai du sens
 - Le son est calculé par le casque pour donner l'impression de provenir de l'environnement réel de l'utilisateur
-
-![bg right:50%](annexes/Pasted%20image%2020241212103851.png)
 
 ---
 
@@ -210,7 +178,6 @@ _class: lead
 ### Jeux d'exploration
  - [The Climb 2](https://www.youtube.com/watch?v=YSNPalIihiE)
  - [Ocean Rift](https://www.youtube.com/watch?time_continue=22&v=4lCwRg9oQ1c&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjMsMjg2NjY)
-![bg right:40%](annexes/Pasted%20image%2020241212142759.png)
 
 ---
 
@@ -218,7 +185,7 @@ _class: lead
 ### Jeux de réflexion
   - [The Curious Tale of the Stolen Pets](https://www.youtube.com/watch?v=EOuI6FGxYkA)
   - [Puzzling Places](https://www.youtube.com/watch?v=gmuGRIHfmRQ) 
-![bg left:40%](annexes/Pasted%20image%2020241212142625.png)
+
 ---
 
 ## Expériences : Parlons Jeux
@@ -230,8 +197,8 @@ _class: lead
 
 ---
 ## Conclusion
-Le casque Apple Vision Pro est un outil puissant pour la réalité virtuelle et Augmentée. 
-L'intégration avec ShariiingXR et l'utilisation des guidelines d'Apple permettent de créer des expériences Impactantes au sein de l'ISM.
+Le casque **Apple Vision Pro** est un outil **puissant** pour la réalité virtuelle et Augmentée. 
+L'intégration avec **ShariiingXR** et l'utilisation des guidelines d'Apple permettent de créer des expériences Impactantes au sein de l'ISM.
 
 ---
 ## Retours
