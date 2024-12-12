@@ -132,33 +132,66 @@ _class: lead
 ---
 ## Expériences : Parlons cartes
 
+![bg right:70%](https://images.techhive.com/images/article/2016/11/googleearthvr_2-100693965-orig.jpg)
+![bg](https://blogs.bing.com/BingBlogs/media/MapsBlog/2019/04/SpaceNeedle_1.png)
 
 ---
 ## Expériences : Parlons cartes
-### Lecture de cartes riches en information
-- Exemple : carte chronologique dont chaque strate représente une période historique.
-
+### Cartes à l'échelle de l'empire
+Exemple : carte chronologique dont chaque strate représente une période historique.
 → [Carte de l'empire romain par strates](https://sketchfab.com/3d-models/roman-empire-3d-atlas-060cb0d7c4cb40aaad88fdd6f6e06c74)
 
 ---
 
 ## Expériences : Parlons cartes
-
-### Lecture de cartes riches en information
-- Exemple : carte de Rome en 3D
-
-→ [Rome en 3D | Google Maps](https://www.google.fr/maps/place/Rome,+Ville+m%C3%A9tropolitaine+de+Rome+Capitale,+Italie/@41.8867832,12.4946981,149a,35y,323.74h,71.72t/data=!3m1!1e3!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.8967068!4d12.4822025!16zL20vMDZjNjI?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D)
+### Cartes à l'échelle de l'empire
+Travail de [Johan Åhlfeldt](https://x.com/JohanAhlfeldt) qui a créé un jeu de données cartographiques autour de l'empire romain : [Digital Atlas of the Roman Empire](https://imperium.ahlfeldt.se/).
 
 ---
 
 ## Expériences : Parlons cartes
 
+### Cartes à l'échelle d'une ville
+Exemple : carte de Rome en 3D
+→ [Rome en 3D | Google Maps](https://www.google.fr/maps/place/Rome,+Ville+m%C3%A9tropolitaine+de+Rome+Capitale,+Italie/@41.8867832,12.4946981,149a,35y,323.74h,71.72t/data=!3m1!1e3!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.8967068!4d12.4822025!16zL20vMDZjNjI?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D)
+
 
 ---
 
-## Parlons Jeux
+## Expériences : Parlons cartes
 
---> [design de jeux](obsidian://open?vault=arthur&file=projets%2Fism%20monaco%2FDesign%20for%20AVP%2Fjeux)
+### Cartes à l'échelle d'une ville
+Exemple : Scan d'une ancienne maquette de Rome
+→ [Massive scale model of Ancient Rome by Benoît Rogez](https://sketchfab.com/3d-models/massive-scale-model-of-ancient-rome-2f9cb1fbc2eb470686eb8ba596b059cb)
+
+---
+
+## Expériences : Parlons cartes
+
+### À l'échelle d'un bâtiment
+Les bâtiments historiques sont numérisés dans leur état actuel.
+
+→ [Baelo Claudia Roman amphitheatre, Cadiz, Spain](https://sketchfab.com/3d-models/baelo-claudia-roman-amphitheatre-cadiz-spain-1b4d87510ea846bd94e43e9bef699249)
+→ [Vatican City State, Rome, Italy](https://sketchfab.com/3d-models/vatican-city-state-rome-italy-b35b1e866ead4fb385e48dd3f2a99663)
+
+
+---
+
+
+## Expériences : Parlons cartes
+
+### À l'échelle d'un bâtiment
+Les bâtiments peuvent être modélisés dans leur état d'origine.
+
+→ [modèle 3D d'Amphithéâtre - TurboSquid](https://www.turbosquid.com/fr/3d-models/ancient-greek-architecture-roman-building-3d-model-1282755)
+→ [Théâtre romain modèle 3D - Free3D](https://free3d.com/fr/3d-model/roman-theatre-3919.html)
+
+---
+
+
+
+## Expériences : Parlons Jeux
+
 
 
 ---
