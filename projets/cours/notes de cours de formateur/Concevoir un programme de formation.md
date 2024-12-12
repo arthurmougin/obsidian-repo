@@ -67,10 +67,20 @@ Exemple :
 - Établir un **planning détaillé** avec les horaires et les séquences de formation
 - Prendre en compte les temps de pause et de transition
 ### Exemple de déroulement d'une journée de formation
-- 9h00 - 9h30 : Accueil et introduction
-- 9h30 - 11h00 : Module 1 - Théorie
-- 11h00 - 11h15 : Pause
-- 11h15 - 12h45 : Module 2 - Etude de cas
-- 12h45 - 14h00 : Déjeuner
-- 14h00 - 15h30 : Module 3 - Atelier pratique
-- 15h30 - 16h00 : Synthèse et conclusion
+- **9h00 - 9h30** : Accueil et introduction
+- **9h30 - 11h00** : Module 1 - Théorie
+- **11h00 - 11h15** : Pause
+- **11h15 - 12h45** : Module 2 - Étude de cas
+- **12h45 - 14h00** : Déjeuner
+- **14h00 - 15h30** : Module 3 - Atelier pratique
+- **15h30 - 16h00** : Synthèse et Évaluation
+
+## 7. Créer des supports pédagogiques
+### Types de supports
+1. **Visuels** : slides et infographies
+2. **Écrits** : Guides, manuels, fiches techniques
+3. **Numériques** : Vidéos, tutoriels interactifs, quiz en ligne
+### Qualités d'un bon support
+- Lisibilité : Police claire et mise en page soignée
+- Pertinence : Contenu aligné avec les objectifs pédagogiques
+- Accessibilité : Mise a disposition des supports avant et après la formation
