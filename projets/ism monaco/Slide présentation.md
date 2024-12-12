@@ -192,8 +192,42 @@ Les bâtiments peuvent être modélisés dans leur état d'origine.
 
 ## Expériences : Parlons Jeux
 
-
+<!-- 
+_paginate: false 
+_class: lead
+-->
 
 ---
 
+## Expériences : Parlons Jeux
+### Jeux de décision politique
+- [Reigns](httpsyoutu.be/O2HnvpXqII4?si=rmjm9Ntzvkx3nka9)
+- [Civilisation](https://www.youtube.com/watch?v=5KdE0p2joJw)
+![bg left:40%](https://cdn.2kgames.com/civilization.com/Beginners_Civ_hero.jpg)
+---
+
+## Expériences : Parlons Jeux
+### Jeux d'exploration
+ - [The Climb 2](https://www.youtube.com/watch?v=YSNPalIihiE)
+ - [Ocean Rift](https://www.youtube.com/watch?time_continue=22&v=4lCwRg9oQ1c&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjMsMjg2NjY)
+![bg right:40%](annexes/Pasted%20image%2020241212142759.png)
+
+---
+
+## Expériences : Parlons Jeux
+### Jeux de réflexion
+  - [The Curious Tale of the Stolen Pets](https://www.youtube.com/watch?v=EOuI6FGxYkA)
+  - [Puzzling Places](https://www.youtube.com/watch?v=gmuGRIHfmRQ) 
+![bg left:40%](annexes/Pasted%20image%2020241212142625.png)
+---
+
+## Expériences : Parlons Jeux
+### Jeux de rapidité et combat
+- [Fruit Ninja VR](https://store.steampowered.com/app/486780/Fruit_Ninja_VR/)
+- [Gladius | Gladiator VR Sword fighting](https://store.steampowered.com/app/556640/Gladius__Gladiator_VR_Sword_fighting/)
+
+![bg right:40%](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/556640/ss_bff92ce18e3dad04d227d5daa94751138a901c2b.jpg?t=1667122074)
+
+---
 ## Conclusion
+Le casque Apple Vision Pro est un outil puissant pour la réalité virtuelle et Augmentée. Il permet de créer des expériences immersives et interactives. 
