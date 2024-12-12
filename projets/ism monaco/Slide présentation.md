@@ -78,7 +78,30 @@ _class: lead
 ### Interface intentionnelle
 - Explorer le champ des possibles
 
-![bg vertical height:20%](annexes/Pasted%20image%2020241212103557.png)
+![bg right:40%](annexes/Pasted%20image%2020241212103557.png)
+
+
+---
+## Design : Recommandations d'Apple
+### Interface intentionnelle
+- Donner vie à des modèles photoréalistes
+
+![h:250](annexes/Pasted%20image%2020241212103613.png)
+<style>
+ img
+ {
+	 margin-left:16em;
+ }
+</style>
+
+---
+## Design : Recommandations d'Apple
+### Interface intentionnelle
+- Si l'interface originelle est trop complexe, il faut alors proposer une expérience **complémentaire**.
+
+![bg ](https://fakeimg.pl/250x100/fff/fff)
+![bg ](annexes/Pasted%20image%2020241212103653.png)
+![bg](annexes/Pasted%20image%2020241212103726.png)
 
 
 
