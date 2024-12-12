@@ -99,17 +99,60 @@ _class: lead
 ### Interface intentionnelle
 - Si l'interface originelle est trop complexe, il faut alors proposer une expérience **complémentaire**.
 
-![bg ](https://fakeimg.pl/250x100/fff/fff)
-![bg ](annexes/Pasted%20image%2020241212103653.png)
+
+![bg  right:55%](annexes/Pasted%20image%2020241212103653.png)
 ![bg](annexes/Pasted%20image%2020241212103726.png)
-
-
 
 ---
 
-## Parlons carte
+## Design : Recommandations d'Apple
+### Exemple d'immersion
+- Transporter les utilisateurs dans un autre monde
+- Ces environnements doivent être fidèles à la réalité et inclure un sens de la profondeur et de l'échelle
 
-→ [cartes](obsidian://open?vault=arthur&file=projets%2Fism%20monaco%2FDesign%20for%20AVP%2FSmall%20worlds)
+![bg left:40%](annexes/Pasted%20image%2020241212103812.png)
+
+---
+
+## Design : Recommandations d'Apple
+
+### Concevoir une expérience sonore qui ai du sens
+- Le son est calculé par le casque pour donner l'impression de provenir de l'environnement réel de l'utilisateur
+
+![bg right:50%](annexes/Pasted%20image%2020241212103851.png)
+
+---
+
+# Types d'expériences
+
+<!-- 
+_paginate: false 
+_class: lead
+-->
+---
+## Expériences : Parlons cartes
+
+
+---
+## Expériences : Parlons cartes
+### Lecture de cartes riches en information
+- Exemple : carte chronologique dont chaque strate représente une période historique.
+
+→ [Carte de l'empire romain par strates](https://sketchfab.com/3d-models/roman-empire-3d-atlas-060cb0d7c4cb40aaad88fdd6f6e06c74)
+
+---
+
+## Expériences : Parlons cartes
+
+### Lecture de cartes riches en information
+- Exemple : carte de Rome en 3D
+
+→ [Rome en 3D | Google Maps](https://www.google.fr/maps/place/Rome,+Ville+m%C3%A9tropolitaine+de+Rome+Capitale,+Italie/@41.8867832,12.4946981,149a,35y,323.74h,71.72t/data=!3m1!1e3!4m6!3m5!1s0x132f6196f9928ebb:0xb90f770693656e38!8m2!3d41.8967068!4d12.4822025!16zL20vMDZjNjI?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D)
+
+---
+
+## Expériences : Parlons cartes
+
 
 ---
 
