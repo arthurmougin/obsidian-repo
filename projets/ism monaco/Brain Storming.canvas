@@ -1,14 +1,22 @@
 {
 	"nodes":[
-		{"id":"ac7512ec9fc41221","x":-410,"y":-120,"width":290,"height":420,"type":"group","label":"Informations générales"},
-		{"id":"4336523cf2b4d005","x":-100,"y":-120,"width":290,"height":180,"type":"group","label":"Sujets identifiés"},
-		{"id":"34572cab2f5c900f","x":-390,"y":-100,"width":250,"height":60,"type":"text","text":"budget : <20 000 €"},
-		{"id":"44e04f5b445ee51a","x":-390,"y":-20,"width":250,"height":60,"type":"text","text":"20 minutes de session"},
-		{"id":"d6bf342ffbddca16","x":-390,"y":60,"width":250,"height":60,"type":"text","text":"8 enfants"},
-		{"id":"d77a281b41a139d9","x":-390,"y":140,"width":250,"height":60,"type":"text","text":"8 AVP"},
-		{"id":"95f55bbbe136acad","x":-390,"y":220,"width":250,"height":60,"type":"text","text":"8 Quest 3"},
-		{"id":"47af9cf7f57dbea7","x":-80,"y":-100,"width":250,"height":60,"type":"text","text":"Course de char"},
-		{"id":"0f57bd636c5e53cb","x":-80,"y":-20,"width":250,"height":60,"type":"text","text":"Combats de gladiateurs"}
+		{"id":"ac7512ec9fc41221","type":"group","x":-410,"y":-120,"width":290,"height":420,"color":"5","label":"Informations générales"},
+		{"id":"4336523cf2b4d005","type":"group","x":-100,"y":-120,"width":290,"height":180,"label":"Sujets identifiés"},
+		{"id":"34572cab2f5c900f","type":"text","text":"budget : <20 000 €","x":-390,"y":-100,"width":250,"height":60},
+		{"id":"44e04f5b445ee51a","type":"text","text":"20 minutes de session","x":-390,"y":-20,"width":250,"height":60},
+		{"id":"d6bf342ffbddca16","type":"text","text":"8 enfants","x":-390,"y":60,"width":250,"height":60},
+		{"id":"d77a281b41a139d9","type":"text","text":"8 AVP","x":-390,"y":140,"width":250,"height":60},
+		{"id":"95f55bbbe136acad","type":"text","text":"8 Quest 3","x":-390,"y":220,"width":250,"height":60},
+		{"id":"47af9cf7f57dbea7","type":"text","text":"Course de char","x":-80,"y":-100,"width":250,"height":60},
+		{"id":"0f57bd636c5e53cb","type":"text","text":"Combats de gladiateurs","x":-80,"y":-20,"width":250,"height":60},
+		{"id":"dbb2695b804d0e7e","x":-390,"y":420,"width":250,"height":60,"type":"text","text":"60€/mois d'ordinateur"},
+		{"id":"aea5dfdad19e1869","x":-390,"y":500,"width":250,"height":60,"type":"text","text":"Location du casque"},
+		{"id":"e99ec4057cf8273c","x":-390,"y":580,"width":250,"height":100,"type":"text","text":"Facturer travail réalisé pour la première présentation"},
+		{"id":"1f8b8311522f4625","x":-390,"y":700,"width":250,"height":80,"type":"text","text":"Licences à calculer (Unity Pro)"},
+		{"id":"b43661a2fad756ae","x":-390,"y":880,"width":250,"height":60,"type":"text","text":"Modélisation / Animation"},
+		{"id":"feb82b1afb895d7a","x":-390,"y":960,"width":250,"height":60,"type":"text","text":"Sound Design"},
+		{"id":"0c21c9392ed352f6","x":-390,"y":1040,"width":250,"height":80,"type":"text","text":"Déplacement et logement monaco"},
+		{"id":"ee7140b45a3aab85","x":-487,"y":780,"width":250,"height":60,"type":"text","text":"1000$"}
 	],
 	"edges":[]
 }
