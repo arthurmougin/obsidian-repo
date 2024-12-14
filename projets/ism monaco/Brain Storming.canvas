@@ -12,11 +12,11 @@
 		{"id":"dbb2695b804d0e7e","x":-390,"y":420,"width":250,"height":60,"type":"text","text":"60€/mois d'ordinateur"},
 		{"id":"aea5dfdad19e1869","x":-390,"y":500,"width":250,"height":60,"type":"text","text":"Location du casque"},
 		{"id":"e99ec4057cf8273c","x":-390,"y":580,"width":250,"height":100,"type":"text","text":"Facturer travail réalisé pour la première présentation"},
-		{"id":"1f8b8311522f4625","x":-390,"y":700,"width":250,"height":80,"type":"text","text":"Licences à calculer (Unity Pro)"},
-		{"id":"b43661a2fad756ae","x":-390,"y":880,"width":250,"height":60,"type":"text","text":"Modélisation / Animation"},
-		{"id":"feb82b1afb895d7a","x":-390,"y":960,"width":250,"height":60,"type":"text","text":"Sound Design"},
-		{"id":"0c21c9392ed352f6","x":-390,"y":1040,"width":250,"height":80,"type":"text","text":"Déplacement et logement monaco"},
-		{"id":"ee7140b45a3aab85","x":-487,"y":780,"width":250,"height":60,"type":"text","text":"1000$"}
+		{"id":"1f8b8311522f4625","x":-390,"y":700,"width":250,"height":60,"type":"text","text":"170€/mois Unity Pro"},
+		{"id":"ee7140b45a3aab85","x":-390,"y":780,"width":250,"height":60,"type":"text","text":"99$ Apple developer"},
+		{"id":"b43661a2fad756ae","x":-390,"y":860,"width":250,"height":60,"type":"text","text":"Modélisation / Animation"},
+		{"id":"feb82b1afb895d7a","x":-390,"y":940,"width":250,"height":60,"type":"text","text":"Sound Design"},
+		{"id":"0c21c9392ed352f6","x":-390,"y":1020,"width":250,"height":80,"type":"text","text":"Déplacement et logement monaco"}
 	],
 	"edges":[]
 }
