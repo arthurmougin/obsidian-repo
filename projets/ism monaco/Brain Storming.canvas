@@ -4,21 +4,21 @@
 		{"id":"4336523cf2b4d005","type":"group","x":-100,"y":-120,"width":290,"height":180,"label":"Sujets identifiés"},
 		{"id":"34572cab2f5c900f","type":"text","text":"budget : <20 000 €","x":-390,"y":-100,"width":250,"height":60},
 		{"id":"44e04f5b445ee51a","type":"text","text":"20 minutes de session","x":-390,"y":-20,"width":250,"height":60},
-		{"id":"47af9cf7f57dbea7","type":"text","text":"Course de char","x":-80,"y":-100,"width":250,"height":60},
-		{"id":"0f57bd636c5e53cb","type":"text","text":"Combats de gladiateurs","x":-80,"y":-20,"width":250,"height":60},
 		{"id":"aea5dfdad19e1869","type":"text","text":"Location du casque","x":-390,"y":500,"width":210,"height":60},
 		{"id":"e99ec4057cf8273c","type":"text","text":"Facturer travail réalisé pour la première présentation","x":-390,"y":580,"width":250,"height":100},
 		{"id":"1f8b8311522f4625","type":"text","text":"170€/mois Unity Pro","x":-390,"y":700,"width":250,"height":60},
 		{"id":"ee7140b45a3aab85","type":"text","text":"99$ Apple developer","x":-390,"y":780,"width":250,"height":60},
-		{"id":"b43661a2fad756ae","type":"text","text":"Modélisation / Animation","x":-390,"y":860,"width":250,"height":60},
-		{"id":"feb82b1afb895d7a","type":"text","text":"Sound Design","x":-390,"y":940,"width":250,"height":60},
-		{"id":"0c21c9392ed352f6","type":"text","text":"Déplacement et logement monaco","x":-390,"y":1020,"width":250,"height":80},
-		{"id":"1345510b47929dae","x":-180,"y":500,"width":340,"height":60,"type":"text","text":"3 999€ AVP / a diviser + gonfler presta"},
 		{"id":"95f55bbbe136acad","type":"text","text":"8 Quest 3","x":-390,"y":220,"width":250,"height":60},
 		{"id":"d6bf342ffbddca16","type":"text","text":"8 enfants","x":-390,"y":60,"width":250,"height":60},
 		{"id":"d77a281b41a139d9","type":"text","text":"8 AVP","x":-390,"y":140,"width":250,"height":60},
+		{"id":"47af9cf7f57dbea7","type":"text","text":"Course de char","x":-80,"y":-100,"width":250,"height":60},
+		{"id":"0f57bd636c5e53cb","type":"text","text":"Combats de gladiateurs","x":-80,"y":-20,"width":250,"height":60},
+		{"id":"b43661a2fad756ae","type":"text","text":"Modélisation / Animation","x":-390,"y":860,"width":250,"height":60},
+		{"id":"feb82b1afb895d7a","type":"text","text":"Sound Design","x":-390,"y":940,"width":250,"height":60},
+		{"id":"0c21c9392ed352f6","type":"text","text":"Déplacement et logement monaco","x":-390,"y":1020,"width":250,"height":80},
+		{"id":"1345510b47929dae","type":"text","text":"3 999€ AVP / a diviser + gonfler presta","x":-180,"y":500,"width":340,"height":60},
 		{"id":"dbb2695b804d0e7e","type":"text","text":"60€/mois d'ordinateur","x":-390,"y":420,"width":250,"height":60},
-		{"id":"fd107b364edfa2de","x":-140,"y":420,"width":250,"height":60,"type":"text","text":""}
+		{"id":"fd107b364edfa2de","type":"text","text":"2600€ macbook ","x":-140,"y":420,"width":250,"height":60}
 	],
 	"edges":[]
 }

@@ -1,7 +1,8 @@
-Bonjour Stéphan,
-Je vous contacte sur recommandation d'Olivier Goguel pour une mission de modélisation et le rig d'un char romain joué à la première personne avec hand tracking sur le casque d'Apple.
-Ce projet contient de nombreux défis, tout particulièrement le cheval. 
-Qu'en pensez-vous ?
+Bonjour Stéphan,  
+Sur recommandation d’Olivier Goguel, je vous contacte pour un projet XR sur Apple Vision Pro. Je cherche un expert en modélisation/animation de chevaux pour une course de chars. Auriez-vous des conseils ou contacts à me partager ?
+
+Merci d’avance,  
+Arthur
 
 
 
