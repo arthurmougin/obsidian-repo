@@ -1,4 +1,3 @@
-
 | catégorie | Nom               | Déscription      | Cout unitaire | Quantité | total |
 | --------- | ----------------- | ---------------- | ------------- | -------- | ----- |
 | hardware  | Ordinateur        | Mac compatible   | ~2500         | 1        |       |
