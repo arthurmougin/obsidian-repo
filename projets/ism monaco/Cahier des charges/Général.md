@@ -25,6 +25,22 @@ L'expérience s'intègre dans une session pédagogique de 20 minutes qui aura li
 L'expérience se limite à une course de char romaine tel qu'historiquement documentée au pic de leur popularité. Elle commence par la sélection des chars, continue sur la course en elle-même et termine par la victoire finale. L'expérience se déroulera dans le Circus Maximus de Rome. 
 
 Le char romain 
+- conforme aux designs historiques
+- 2 à 4 chevaux
+- garde montant jusqu'aux genoux
+- un seul passager
+- fragile
+
+Le cheval
+- Race nord africaine
+- Rendu photoréaliste (très proche de l'utilisateur)
+- animé
+	- course
+	- arrêt
+	- trot
+	- virage à 180 avec plusieurs degrés de rayon
+- Tête réagissant aux tractions sur le mors émise par l'utilisateur avec le hand tracking
+- 
 
 # Aspects fonctionnels
 _Définissez chacun de vos objectifs et découpez-les en livrables. Vous pouvez par exemple découper une fonctionnalité en différentes transactions à exécuter. Ajouter des schémas._
