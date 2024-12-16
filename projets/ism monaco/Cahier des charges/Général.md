@@ -28,6 +28,7 @@ L'expérience se limite à une course de char romaine tel qu'historiquement docu
 	- course
 	- arrêt
 	- trot
+	- accélération ?
 	- virage à 180 avec plusieurs degrés de rayon
 - Tête réagissant aux tractions sur le mors émise par l'utilisateur avec l'hand tracking
 - harnais historique d'épaule permettant rotation plus serrée
