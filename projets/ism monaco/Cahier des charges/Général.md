@@ -21,9 +21,8 @@ Implique-t-il des personnes extérieures à l’entreprise ? Y a-t-il une limit
 _Il peut être intéressant ici de répéter les contraintes du projet et suppositions de départ._
 _Note : Définir ce qui sort des limites de votre projet est aussi important que de définir ce qui va être fait. Cela peut souvent éviter des malentendus et des discussions ultérieures_
 
-L'expérience s'intègre dans une session pédagogique de 20 minutes qui aura lieu au sein de la salle immersive de l'ISM. Les utilisateurs principaux seront des élèves au nombre de 8 maximum, avec un professeur encadrant l'expérience.
+L'expérience s'intègre dans une session pédagogique de 20 minutes qui aura lieu au sein de la salle immersive de l'ISM. Les utilisateurs principaux seront des élèves au nombre de 8 maximum, avec un professeur encadrant l'expérience, qui sera donc multijoueur en local et rediffusée sur les écrans avec ShariiingXR.
 L'expérience se limite à une course de char romaine tel qu'historiquement documentée au pic de leur popularité. Elle commence par la sélection des chars, continue sur la course en elle-même et termine par la victoire finale. L'expérience se déroulera dans le Circus Maximus de Rome. 
-
 
 Le char romain 
 - conforme aux designs historiques
@@ -43,6 +42,10 @@ Le cheval
 - Tête réagissant aux tractions sur le mors émise par l'utilisateur avec l'hand tracking
 - harnais historique d'épaule permettant rotation plus serrée
 - variations d'ornement d'équipe
+
+La course
+- 7 tours de piste
+- Dure entre 7 à 8 minutes
 
 # Aspects fonctionnels
 _Définissez chacun de vos objectifs et découpez-les en livrables. Vous pouvez par exemple découper une fonctionnalité en différentes transactions à exécuter. Ajouter des schémas._
