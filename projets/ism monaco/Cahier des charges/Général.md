@@ -24,23 +24,25 @@ _Note : Définir ce qui sort des limites de votre projet est aussi important qu
 L'expérience s'intègre dans une session pédagogique de 20 minutes qui aura lieu au sein de la salle immersive de l'ISM. Les utilisateurs principaux seront des élèves au nombre de 8 maximum, avec un professeur encadrant l'expérience.
 L'expérience se limite à une course de char romaine tel qu'historiquement documentée au pic de leur popularité. Elle commence par la sélection des chars, continue sur la course en elle-même et termine par la victoire finale. L'expérience se déroulera dans le Circus Maximus de Rome. 
 
+
 Le char romain 
 - conforme aux designs historiques
 - 2 à 4 chevaux
 - garde montant jusqu'aux genoux
 - un seul passager
-- fragile
+- fragile (roues peuvent se détacher)
 
 Le cheval
-- Race nord africaine
+- Plusieurs variations d'une race nord africaine
 - Rendu photoréaliste (très proche de l'utilisateur)
 - animé
 	- course
 	- arrêt
 	- trot
 	- virage à 180 avec plusieurs degrés de rayon
-- Tête réagissant aux tractions sur le mors émise par l'utilisateur avec le hand tracking
-- 
+- Tête réagissant aux tractions sur le mors émise par l'utilisateur avec l'hand tracking
+- harnais historique d'épaule permettant rotation plus serrée
+- variations d'ornement d'équipe
 
 # Aspects fonctionnels
 _Définissez chacun de vos objectifs et découpez-les en livrables. Vous pouvez par exemple découper une fonctionnalité en différentes transactions à exécuter. Ajouter des schémas._
