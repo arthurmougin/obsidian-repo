@@ -1,28 +1,28 @@
 ---
 Nom / Code Projet: Chariots de feu
 Chef de projet et Auteur: Arthur Mougin
-Version: "001"
-date: 2024-12-16
 ---
 # Contexte du projet
 *Situez ici le projet dans son contexte. Décrivez comment ce projet est né, les besoins initiaux de l’entreprise, les avantages ou bénéfices espérés, le contexte technique, les aspects légaux si applicable. Une personne externe à l’entreprise comprendra clairement le Pourquoi de votre initiative.*
 
+Ce projet est le résultat d'une collaboration avec l'ISM (International school of Monaco). Cette école s'est équipé d'une installation Immersive composée d'une installation de 7 écrans muraux tactiles Shariiing par Immersion, ainsi que 8 casques Apple Vision pro, 8 Meta Quest 3 et 8 casques ClassVR (comparable à Oculus Go). À la suite de quoi, ISM nous a missionné pour leur créer du contenu pédagogique.
+
+Au fils des premiers échanges, plusieurs idées sont apparues, notamment la course de char romain dans le Circus Maximus et le combat de gladiateur dans le Colisée. Ce projet vise à réaliser cette première idée, la course de char romain.
 # Objectifs du projet
-_Exprimez les bénéfices attendus justifiant votre investissement._
-_Cela peut être par exemple :_
-- _Une augmentation de x% des ventes ou de la production_
-- _Une réduction de coûts (spécifiez lesquels et combien)_
-- _Une amélioration du temps de réponse_
-- _Une optimisation des achats_
-- _Une obligation légale (le coût ici se justifie car il évite de grosses amendes)_
-- _Le rapprochement de sociétés_
-- _Objectifs quantitatifs_
-- _Et bien d’autres…_
-_Soyez aussi complet que possible : votre projet peut avoir de multiples objectifs et bénéfices, tous sont importants. Le cas échéant, positionnez les objectifs de votre projet face à la concurrence pour en montrer les avantages_
+L'objectif premier de ce projet est purement pédagogique. Il s'agit de créer un environnement immersif pour les élèves de l'ISM. Cela permettra aux élèves de se plonger dans la Rome antique et de découvrir la course de char romain. Cela permettra également de donner vie à l'enseignement de l'histoire et de rendre les cours plus vivants et interactifs.
+
 # Périmètre du projet
-_Quelles sont les limites de votre projet ? En quoi consiste-t-il ? Où commence-t-il et où s’arrête-t-il ? Qui est impliqué et qui ne le sera pas ? Qui en sont les bénéficiaires principaux ? Implique-t-il des personnes extérieures à l’entreprise ? Y a-t-il une limite géographique ?..._
+_Quelles sont les limites de votre projet ? 
+En quoi consiste-t-il ? 
+Où commence-t-il et où s’arrête-t-il ? 
+Qui est impliqué et qui ne le sera pas ? 
+Qui en sont les bénéficiaires principaux ? 
+Implique-t-il des personnes extérieures à l’entreprise ? Y a-t-il une limite géographique ?..._
 _Il peut être intéressant ici de répéter les contraintes du projet et suppositions de départ._
 _Note : Définir ce qui sort des limites de votre projet est aussi important que de définir ce qui va être fait. Cela peut souvent éviter des malentendus et des discussions ultérieures_
+
+L'expérience s'intègre dans une session pédagogique de 20 minutes.
+
 # Aspects fonctionnels
 _Définissez chacun de vos objectifs et découpez-les en livrables. Vous pouvez par exemple découper une fonctionnalité en différentes transactions à exécuter. Ajouter des schémas._
 _Note : Définir ce qui sort des limites de votre projet est aussi important que de définir ce qui va être fait. Cela peut souvent éviter des malentendus et des discussions ultérieures_
