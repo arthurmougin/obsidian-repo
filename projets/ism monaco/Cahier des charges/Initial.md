@@ -9,35 +9,19 @@ Au fils des premiers échanges, plusieurs idées sont apparues, notamment la cou
 # Objectifs du projet
 L'objectif premier de ce projet est purement pédagogique. Il s'agit de créer un environnement immersif pour les élèves de l'ISM. Cela permettra aux élèves de se plonger dans la Rome antique et de découvrir la course de char romain. Cela permettra également de donner vie à l'enseignement de l'histoire et de rendre les cours plus vivants et interactifs.
 
+Il devra répondre au maximum aux points suivants :
+- Contenu approprié à un public entre 13 et 18 ans
+- Multijoueur
+- Présence d'un tableau de score
+- Expérience d'apprentissage actif
+- Expérience interactive
+- Possibilité d'explorer plusieurs chemins d'apprentissages
+- Son
+- Impactante
+- Encourager la reflection, et l'engagement des apprenants
+
 # Périmètre du projet
 
 L'expérience s'intègre dans une session pédagogique de 20 minutes qui aura lieu au sein de la salle immersive de l'ISM. Les utilisateurs principaux seront des élèves au nombre de 8 maximum, avec un professeur encadrant l'expérience, qui sera donc multijoueur en local et rediffusée sur les écrans avec ShariiingXR.
 L'expérience se limite à une course de char romaine tel qu'historiquement documentée au pic de leur popularité. Elle commence par la sélection des chars, continue sur la course en elle-même et termine par la victoire finale. L'expérience se déroulera dans le Circus Maximus de Rome. 
 
-## Le char romain 
-- conforme aux designs historiques
-- 2 à 4 chevaux
-- garde montant jusqu'aux genoux
-- un seul passager
-- fragile (roues peuvent se détacher)
-
-## Le cheval
-- Plusieurs variations d'une race nord africaine
-- Rendu photoréaliste (très proche de l'utilisateur)
-- animé
-	- course
-	- arrêt
-	- trot
-	- accélération ?
-	- virage à 180 avec plusieurs degrés de rayon
-- Tête réagissant aux tractions sur le mors émise par l'utilisateur avec l'hand tracking
-- harnais historique d'épaule permettant rotation plus serrée
-- variations d'ornement d'équipe
-
-## La course
-- 7 tours de piste
-- Dure entre 7 à 8 minutes
-
-## La foule
-Le stade accueillait jusqu'à 150 000 individus. La foule doit être animée et réagir à la course. 
-Approche proposée : billboard
