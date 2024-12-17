@@ -18,7 +18,7 @@ Il devra répondre au maximum aux points suivants :
 - Possibilité d'explorer plusieurs chemins d'apprentissages
 - Son
 - Impactante
-- Encourager la reflection, et l'engagement des apprenants
+- Encourager la réflexion, et l'engagement des apprenants.
 
 # Périmètre du projet
 
